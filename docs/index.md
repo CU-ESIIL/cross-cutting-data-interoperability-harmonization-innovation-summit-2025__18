@@ -12,7 +12,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 **One sentence on impact:** In three days, Group 18 is prototyping cross-cutting interoperability workflows that let partners combine climate, ecological, and social datasets without friction.
 
-**[Summit concept note (PDF)](#) · [View shared code](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/tree/main/code) · [Data & access](data.md)**
+**[Summit concept note (PDF)](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdfa) · [View shared code](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/code/single_hull_demo.py) · [Explore data](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/code/prism_quicklook.py)**
 
 > **About this site:** This is a living notebook for the Cross-Cutting Data Interoperability & Harmonization Innovation Summit 2025. Group 18 captures decisions, visuals, and code here so partners can follow along in real time.
 
@@ -149,13 +149,13 @@ Interoperable data accelerates climate adaptation, biodiversity monitoring, and 
 <table>
 <tr>
 <td align="center" width="33%">
-  <a href="#"><img src="assets/button_brief.gif" alt="Upload your summit brief" width="240"><br><strong>Read the brief</strong></a>
+  <a href="assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdfa"><img src="assets/button_brief.gif" alt="Upload your summit brief" width="240"><br><strong>Read the brief</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/tree/main/code"><img src="assets/button_code.gif" alt="Browse shared code" width="240"><br><strong>View code</strong></a>
+  <a href="https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/code/single_hull_demo.py"><img src="assets/button_code.gif" alt="Browse shared code" width="240"><br><strong>View code</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="data.md"><img src="assets/button_data.gif" alt="Explore shared datasets" width="240"><br><strong>Explore data</strong></a>
+  <a href="https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/code/prism_quicklook.py"><img src="assets/button_data.gif" alt="Explore shared datasets" width="240"><br><strong>Explore data</strong></a>
 </td>
 </tr>
 </table>
