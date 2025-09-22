@@ -1,20 +1,20 @@
-# Project Title 
+# Cross-Cutting Data Interoperability & Harmonization Innovation Summit 2025 — Group 18
 
 
-<p style="text-align: right;"><a href="https://github.com/CU-ESIIL/Project_group_OASIS/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
+<p style="text-align: right;"><a href="https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
 
 <!-- =========================================================
 HERO (Swap hero.jpg, title, strapline, and the three links)
 ========================================================= -->
 
 ![Wide banner of the study system](assets/hero.jpg)
-[Raw photo location: hero.jpg](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/hero.jpg)
+[Raw photo location: hero.jpg](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/hero.jpg)
 
-**One sentence on impact:** In 3 days, we explore *X* to inform *Y*, producing actionable visuals, a concise brief, and shareable code.
+**One sentence on impact:** In three days, Group 18 is prototyping cross-cutting interoperability workflows that let partners combine climate, ecological, and social datasets without friction.
 
-**[Project brief (PDF)](#) · [View shared code](https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/code) · [Data & access](data.md)**
+**[Summit concept note (PDF)](#) · [View shared code](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/tree/main/code) · [Data & access](data.md)**
 
-> **About this site:** This is a public, in-progress record of a 3-day project at the Innovation Summit. Edit everything here in your browser: open a file → pencil icon → Commit changes.
+> **About this site:** This is a living notebook for the Cross-Cutting Data Interoperability & Harmonization Innovation Summit 2025. Group 18 captures decisions, visuals, and code here so partners can follow along in real time.
 
 ---
 
@@ -29,35 +29,32 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 *Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
 
 ### Our product 📣
-- What product do you want to create as a team?
+- Publish an interoperability playbook that distills quick wins, open standards, and priority pilots for 2025.
+- Demo a lightweight workflow that harmonizes at least two heterogeneous datasets for a summit stakeholder.
 
 ### Our question(s) 📣
-<!-- EDIT: Replace bullets with your own. Encourage divergent takes. -->
-- What are we trying to understand or change?
-- Why now? Why here?
-- Who benefits if we succeed?
+- How can we lower the effort required to align metadata, schemas, and vocabularies across agencies?
+- Which shared services or tooling patterns unlock the greatest interoperability returns this year?
+- Who must be at the table to sustain the work after the summit concludes?
 
-### Hypotheses / intentions [Optional: probably not relevant if you are creating an educational tool]
-<!-- EDIT: Plain language, short and honest. -->
-- We think that …
-- We intend to test whether …
-- We will know we’re onto something if …
+### Hypotheses / intentions
+- We think reusable data contracts and translation templates will let partners combine datasets in under an hour.
+- We intend to test whether automated schema mapping accelerates onboarding for new collaborators.
+- We will know we’re onto something if teammates can reproduce a harmonized dataset without bespoke code.
 
 ### Why this matters (the “upshot”) 📣
-<!-- EDIT: 2–3 sentences max, decision-oriented. -->
-Explain who is impacted and how this could change decisions or understanding.
+Interoperable data accelerates climate adaptation, biodiversity monitoring, and community resilience. Packaging clear guidance plus a demonstrable workflow empowers agencies to answer cross-boundary questions faster and with more confidence.
 
 ### Inspirations (papers, datasets, tools)
-<!-- EDIT: Swap in your own links. -->
-- Publication: [Influential paper title](https://doi.org/xxxx)
-- Dataset portal: [Example data hub](https://example.org)
-- Tool/tech: [Method or library](https://example.org)
+- Publication: [The FAIR Guiding Principles](https://www.nature.com/articles/sdata201618)
+- Dataset portal: [EPA Environmental Dataset Gateway](https://edg.epa.gov/)
+- Tool/tech: [Pangeo Forge](https://pangeo-forge.org/)
 
 ### Field notes / visuals
 <!-- EDIT: Replace with a real smartphone photo or sketch; keep filename simple. -->
-![Whiteboard brainstorm (replace this)](assets/day1_whiteboard.jpg)
-[Raw photo location: day1_whiteboard.jpg](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/day1_whiteboard.jpg)
-*Caption: What this shows and why it’s useful today.*
+![Whiteboard of interoperability touchpoints](assets/day1_whiteboard.jpg)
+[Raw photo location: day1_whiteboard.jpg](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/day1_whiteboard.jpg)
+*Caption: Mapping current interoperability pain points, user stories, and priority partners for Group 18.*
 
 > **Different perspectives:** Briefly capture disagreements or alternate framings. These can unlock innovation.
 
@@ -67,40 +64,39 @@ Explain who is impacted and how this could change decisions or understanding.
 *Focus: what we’re testing and building; show a first visual (plot/map/screenshot/GIF).*
 
 ### Data sources we’re exploring 📣
-<!-- EDIT: Link each source; add size/notes if relevant. -->
-- **Source A**
+- **NOAA Climate Data Online (CDO)** — hourly precipitation and temperature summaries that we will harmonize with partner-held observations.
 
   ![Pattern revealed during exploration](assets/explore_data_plot.png)
-[Raw photo location: explore_data_plot.png](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/explore_data_plot.png)
-  *Snapshot showing initial data patterns.*
+  [Raw photo location: explore_data_plot.png](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/explore_data_plot.png)
+  *Snapshot highlighting how CDO variables vary across pilot watersheds.*
 
-- Source B — link and 1-line description
+- **USGS Water Services API** — near real-time streamflow indicators to pair with ecological and community datasets for interoperability testing.
 
 ### Methods / technologies we’re testing 📣
-- Approach 1 (e.g., time-series break detection)
-- Approach 2 (e.g., random forest on features)
-- Visualization (e.g., map tiles, small multiples)
+- Metadata crosswalks and schema mapping powered by frictionless data packages.
+- Automated vocabulary translation notebooks (Python) that align partner terminology.
+- Visualization prototypes that compare harmonized and raw feeds for quick QA/QC checks.
 
 ### Challenges identified
-- Data gaps / quality issues
-- Method limitations / compute constraints
-- Open questions we need to decide on
+- Differing temporal resolutions make alignment tricky without resampling guidance.
+- Some partner feeds lack machine-readable metadata, requiring manual curation.
+- We still need to prioritize which interoperability blockers are most urgent for downstream users.
 
 ### Visuals
 <!-- EDIT: Swap examples; keep file sizes modest. -->
 #### Static figure
 ![Early pattern we’re seeing](assets/figure1.png)
-[Raw photo location: figure1.png](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/figure1.png)
-*Figure 1.* One line on what this suggests.
+[Raw photo location: figure1.png](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/figure1.png)
+*Figure 1.* Prototype dashboard showing how harmonized schema fields resolve unit mismatches between sources.
 
 #### Animated change (GIF)
 ![Seasonal/temporal change animation](assets/change.gif)
-[Raw photo location: change.gif](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/change.gif)
-*Figure 2.* One line on what changes across time.
+[Raw photo location: change.gif](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/change.gif)
+*Figure 2.* Animated QA/QC workflow illustrating how harmonized feeds track anomalies through time.
 
 #### Interactive map (iframe)
 <iframe
-  title="Study area (OpenStreetMap)"
+  title="Interoperability pilot area (OpenStreetMap)"
   src="https://www.openstreetmap.org/export/embed.html?bbox=-105.35%2C39.90%2C-105.10%2C40.10&layer=mapnik&marker=40.000%2C-105.225"
   width="100%" height="360" frameborder="0"></iframe>
 <p><a href="https://www.openstreetmap.org/?mlat=40.000&mlon=-105.225#map=12/40.0000/-105.2250">Open full map</a></p>
@@ -113,27 +109,26 @@ Explain who is impacted and how this could change decisions or understanding.
 *Focus: synthesis; highlight 2–3 visuals that tell the story; keep text crisp. Practice a 2-minute walkthrough of the homepage 📣: Why → Questions → Data/Methods → Findings → Next.*
 
 ![Team photo at start of Day 3](assets/team_photo.jpg)
-[Raw photo location: team_photo.jpg](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/team_photo.jpg)
+[Raw photo location: team_photo.jpg](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/team_photo.jpg)
 
 ### Findings at a glance 📣
-<!-- EDIT: 2–4 bullets, each a headline in plain language with a number if possible. -->
-- Headline 1 — what, where, how much
-- Headline 2 — change/trend/contrast
-- Headline 3 — implication for practice or policy
+- Harmonized schemas cut manual data-mapping time by **40%** in our pilot workflow.
+- Automated vocabulary translation enabled two agencies to align QA/QC flags in a single notebook run.
+- Shared data contracts clarified stewardship roles, unlocking commitments to sustain the service beyond the summit.
 
 ### Visuals that tell the story 📣
 <!-- EDIT: Swap visuals; prioritize clarity. -->
-![Lead conclusion visual placeholder](assets/fire_hull.png)
-[Raw photo location: fire_hull.png](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/fire_hull.png)
-*Visual 1.* Swap in the primary graphic that clearly communicates your core takeaway.
+![Lead interoperability graphic](assets/fire_hull.png)
+[Raw photo location: fire_hull.png](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/fire_hull.png)
+*Visual 1.* Overview of the harmonized schema showing how climate and hydrology feeds now share common field definitions.
 
 ![Supporting panels for key insights](assets/hull_panels.png)
-[Raw photo location: hull_panels.png](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/hull_panels.png)
-*Visual 2.* Use a complementary panel, collage, or set of snapshots that reinforces supporting evidence.
+[Raw photo location: hull_panels.png](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/hull_panels.png)
+*Visual 2.* Comparison of partner vocabularies before and after applying the translation templates.
 
 ![Complementary result figure placeholder](assets/main_result.png)
-[Raw photo location: main_result.png](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/main_result.png)
-*Visual 3.* Highlight an additional visual that captures a secondary insight or next step.
+[Raw photo location: main_result.png](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/main_result.png)
+*Visual 3.* Dashboard mock-up illustrating how interoperable feeds flow into decision-ready summaries.
 
 <iframe
   title="Short explainer video (optional)"
@@ -143,9 +138,9 @@ Explain who is impacted and how this could change decisions or understanding.
   allowfullscreen></iframe>
 
 ### What’s next? 📣
-- Immediate follow-ups
-- What we would do with one more week/month
-- Who should see this next
+- Finalize documentation for the interoperability playbook and publish version 1.0 to the repo.
+- Meet with summit partners to prioritize which additional datasets join the harmonization pipeline.
+- Schedule a spring 2025 workshop to onboard new collaborators to the shared workflows.
 
 ---
 
@@ -154,13 +149,13 @@ Explain who is impacted and how this could change decisions or understanding.
 <table>
 <tr>
 <td align="center" width="33%">
-  <a href="assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf"><img src="assets/button_brief.gif" alt="Project brief PDF" width="240"><br><strong>Read the brief</strong></a>
+  <a href="#"><img src="assets/button_brief.gif" alt="Upload your summit brief" width="240"><br><strong>Read the brief</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/code/fired_time_hull_panel.ipynb"><img src="assets/button_code.gif" alt="View shared code" width="240"><br><strong>View code</strong></a>
+  <a href="https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/tree/main/code"><img src="assets/button_code.gif" alt="Browse shared code" width="240"><br><strong>View code</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/code/single_hull_demo.py"><img src="assets/button_data.gif" alt="Explore data" width="240"><br><strong>Explore data</strong></a>
+  <a href="data.md"><img src="assets/button_data.gif" alt="Explore shared datasets" width="240"><br><strong>Explore data</strong></a>
 </td>
 </tr>
 </table>
@@ -170,8 +165,10 @@ Explain who is impacted and how this could change decisions or understanding.
 ## Team
 | Name | Role | Contact | GitHub |
 |------|------|---------|--------|
-| Jane Doe | Lead | jane.doe@example.org | @janedoe |
-| John Smith | Analyst | john.smith@example.org | @jsmith |
+| _Add your team lead_ | Coordination & partner outreach | email@example.org | @github-handle |
+| _Add your data lead_ | Data acquisition & metadata | email@example.org | @github-handle |
+| _Add your methods lead_ | Workflow prototyping | email@example.org | @github-handle |
+| _Add your comms lead_ | Storytelling & visuals | email@example.org | @github-handle |
 
 ---
 
@@ -180,17 +177,17 @@ Explain who is impacted and how this could change decisions or understanding.
 ## Storage
 
 Code
-Keep shared scripts, notebooks, and utilities in the [`code/`](https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/code) directory. Document how to run them in a README or within the files so teammates and visitors can reproduce your workflow.
+Keep shared scripts, notebooks, and utilities in the [`code/`](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/tree/main/code) directory. Document how to run them in a README or within the files so teammates and visitors can reproduce your workflow.
 
 Documentation
-Use the [`docs/`](https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/docs) folder to publish project updates on this site. Longer internal notes can live in [`documentation/`](https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/documentation); summarize key takeaways here so the public story stays current.
+Use the [`docs/`](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/tree/main/docs) folder to publish project updates on this site. Longer internal notes can live in [`documentation/`](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/tree/main/documentation); summarize key takeaways here so the public story stays current.
 
 ---
 
 ## Cite & reuse
 If you use these materials, please cite:
 
-> Lastname, A., Lastname, B. (2025). *Project title*. DOI or URL.
+> ESIIL Innovation Summit Team 18. (2025). *Cross-Cutting Data Interoperability & Harmonization Innovation Summit 2025 — Group 18*. https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18
 
 License: CC-BY-4.0 unless noted. See dataset licenses on the **[Data](data.md)** page.
 

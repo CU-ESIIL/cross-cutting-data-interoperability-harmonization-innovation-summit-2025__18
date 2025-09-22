@@ -1,12 +1,17 @@
-# Project Group OASIS — Starter Website & README Kit
+# Cross-Cutting Data Interoperability & Harmonization Innovation Summit 2025 — Group 18
 
-This guide is written for people who may be brand new to GitHub. It will show you, step by step, how to use this repository as both:
+Welcome to the home base for Group 18 at the **Cross-Cutting Data Interoperability & Harmonization Innovation Summit 2025**. This repository powers both our public-facing project site and the shared workspace we will use to prototype analyses, document decisions, and coordinate follow-up actions.
 
-1. A **website** to communicate your science to others.
-2. A **hub for sharing code** within your group.
+It is designed for mixed-experience teams. Whether you are brand new to GitHub or have been collaborating in repositories for years, the sections below walk through how to:
 
+1. Publish a lightweight **website** that showcases our goals, progress, and deliverables.
+2. Maintain a **code and documentation hub** so teammates (and future collaborators) can rerun analyses and understand project context.
 
-**Template users:** If you are using this repository as a template, start with [TEMPLATE_GUIDE.md](TEMPLATE_GUIDE.md) for the required name and link updates.
+## Quick links
+
+- **Website:** https://cu-esiil.github.io/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/
+- **Repository:** https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18
+- **CyVerse community folder:** `i:/iplant/home/shared/esiil/Innovation_summit/Group_18`
 
 ---
 
@@ -113,7 +118,7 @@ Congratulations — you’re now using GitHub to communicate your science and sh
 
 ### Step 2 — Open the project home
 
-1. Visit your repository link (it looks like `https://github.com/ORG/Project_group_OASIS`).
+1. Visit your repository link (it looks like `https://github.com/ORG/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18`).
 2. You’ll see folders like `docs/`, `src/`, and files like `README.md`.
 
 **Why this matters:** This is the “front door” to your project’s files.

@@ -1,6 +1,6 @@
-# Welcome to ESIIL Education Student OASIS
+# Welcome to the Cross-Cutting Data Interoperability & Harmonization Innovation Summit 2025
 
-This is the central resource for ESIIL project groups.
+This orientation hub collects the foundational resources that Group 18 and other summit teams can reference during the sprint.
 
 ## Embedded Website
 
