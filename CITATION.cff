@@ -1,9 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
-title: "Project Group OASIS"
-version: "1.0.0"
-doi: 10.5281/zenodo.11166898
-date-released: 2025-09-10
+title: "Cross-Cutting Data Interoperability & Harmonization Innovation Summit 2025 — Group 18"
+abstract: "Working materials, documentation, and prototype products from Group 18 at the Cross-Cutting Data Interoperability & Harmonization Innovation Summit 2025."
+version: "0.1.0"
+date-released: 2025-02-01
+repository-code: https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18
 authors:
-  - family-names: Tuff
-    given-names: Ty
+  - family-names: Innovation Summit Team
+    given-names: ESIIL Group 18

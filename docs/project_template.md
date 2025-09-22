@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "OASIS: 3-Day Team Template"
-subtitle: "A friction-free guide for collaborative research sprints"
+title: "Group 18 Interoperability Sprint Template"
+subtitle: "Shared checklist for the Cross-Cutting Data Interoperability & Harmonization Innovation Summit 2025"
 hero_image: assets/template/hero.svg
 team_logo: assets/template/team-logo.svg
-contact_slack: "#oasis-project-room"
-contact_email: "team@example.org"
+contact_slack: "#summit-group18"
+contact_email: "group18@esiil.org"
 repo_owner: "cu-esiil"
-repo_name: "Project_group_OASIS"
+repo_name: "cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18"
 edit_path: "docs/project_template.md"
 ---
 
