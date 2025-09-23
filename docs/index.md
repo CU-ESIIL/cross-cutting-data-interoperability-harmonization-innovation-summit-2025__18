@@ -45,7 +45,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ### Why this matters (the “upshot”) 📣
 - in order to operationalize FAIR we have to have community standards that everyone adheres to (DARE?)
 - for such a data centric group
-- data isn't "udeful" broadly to the community
+- data isn't "useful" broadly to the community
 - standardizing the standards
 - there's no problem that's not interdisciplinary, it might be better if we have broader community standards
 
