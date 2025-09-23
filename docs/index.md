@@ -29,21 +29,25 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 *Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
 
 ### Our product 📣
-- Publish an interoperability playbook that distills quick wins, open standards, and priority pilots for 2025.
-- Demo a lightweight workflow that harmonizes at least two heterogeneous datasets for a summit stakeholder.
+- a paper for standards in metadata to future-proof data to ensure future utility. We can't imagine what our data can be useful for in the future. How can we generalize across our disciplines? Maybe special issue Environmental Data Science, ideas by Nov 2025, full article by spring 2026
+- an open source tool that translates the academic paper
 
 ### Our question(s) 📣
-- How can we lower the effort required to align metadata, schemas, and vocabularies across agencies?
-- Which shared services or tooling patterns unlock the greatest interoperability returns this year?
-- Who must be at the table to sustain the work after the summit concludes?
+- Can we use AI/LLMs for identifying if datasets are fit for use?
+- Can we do a review of the metadata standards that exist for FAIR data principles or siloed projects (coping with FAIR Maricela)
+- We have to behave differently before we can even get to FAIR
 
 ### Hypotheses / intentions
-- We think reusable data contracts and translation templates will let partners combine datasets in under an hour.
-- We intend to test whether automated schema mapping accelerates onboarding for new collaborators.
-- We will know we’re onto something if teammates can reproduce a harmonized dataset without bespoke code.
+- usefulness of data goes down and cost goes up
+- museum/library/archival perspective on data accessibility over time versus data scientist view on data is "useful/accessible" for 5 years max
+
 
 ### Why this matters (the “upshot”) 📣
-Interoperable data accelerates climate adaptation, biodiversity monitoring, and community resilience. Packaging clear guidance plus a demonstrable workflow empowers agencies to answer cross-boundary questions faster and with more confidence.
+- in order to operationalize FAIR we have to have community standards that everyone adheres to (DARE?)
+- for such a data centric group
+- data isn't "udeful" broadly to the community
+- standardizing the standards
+- there's no problem that's not interdisciplinary, it might be better if we have broader community standards
 
 ### Inspirations (papers, datasets, tools)
 - Publication: [The FAIR Guiding Principles](https://www.nature.com/articles/sdata201618)
