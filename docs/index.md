@@ -69,6 +69,9 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 *Focus: what we’re testing and building; show a first visual (plot/map/screenshot/GIF).*
 
 ### Data sources we’re exploring 📣
+<!-- EDIT: Link each source; add size/notes if relevant. -->
+- **Source A**
+
 - **NOAA Climate Data Online (CDO)** — hourly precipitation and temperature summaries that we will harmonize with partner-held observations.
 
   ![Pattern revealed during exploration](assets/explore_data_plot.png)
@@ -78,26 +81,26 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 - **USGS Water Services API** — near real-time streamflow indicators to pair with ecological and community datasets for interoperability testing.
 
 ### Methods / technologies we’re testing 📣
-- Metadata crosswalks and schema mapping powered by frictionless data packages.
-- Automated vocabulary translation notebooks (Python) that align partner terminology.
-- Visualization prototypes that compare harmonized and raw feeds for quick QA/QC checks.
+- Approach 1 (e.g., time-series break detection)
+- Approach 2 (e.g., random forest on features)
+- Visualization (e.g., map tiles, small multiples)
 
 ### Challenges identified
-- Differing temporal resolutions make alignment tricky without resampling guidance.
-- Some partner feeds lack machine-readable metadata, requiring manual curation.
-- We still need to prioritize which interoperability blockers are most urgent for downstream users.
+- Data gaps / quality issues
+- Method limitations / compute constraints
+- Open questions we need to decide on
 
 ### Visuals
 <!-- EDIT: Swap examples; keep file sizes modest. -->
 #### Static figure
 ![Early pattern we’re seeing](assets/figure1.png)
 [Raw photo location: figure1.png](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/figure1.png)
-*Figure 1.* Prototype dashboard showing how harmonized schema fields resolve unit mismatches between sources.
+*Figure 1.* One line on what this suggests.
 
 #### Animated change (GIF)
 ![Seasonal/temporal change animation](assets/change.gif)
 [Raw photo location: change.gif](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/change.gif)
-*Figure 2.* Animated QA/QC workflow illustrating how harmonized feeds track anomalies through time.
+*Figure 2.* One line on what changes across time.
 
 #### Interactive map (iframe)
 <iframe
@@ -117,23 +120,24 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 [Raw photo location: team_photo.jpg](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/team_photo.jpg)
 
 ### Findings at a glance 📣
-- Harmonized schemas cut manual data-mapping time by **40%** in our pilot workflow.
-- Automated vocabulary translation enabled two agencies to align QA/QC flags in a single notebook run.
-- Shared data contracts clarified stewardship roles, unlocking commitments to sustain the service beyond the summit.
+<!-- EDIT: 2–4 bullets, each a headline in plain language with a number if possible. -->
+- Headline 1 — what, where, how much
+- Headline 2 — change/trend/contrast
+- Headline 3 — implication for practice or policy
 
 ### Visuals that tell the story 📣
 <!-- EDIT: Swap visuals; prioritize clarity. -->
 ![Lead interoperability graphic](assets/fire_hull.png)
 [Raw photo location: fire_hull.png](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/fire_hull.png)
-*Visual 1.* Overview of the harmonized schema showing how climate and hydrology feeds now share common field definitions.
+*Visual 1.* Swap in the primary graphic that clearly communicates your core takeaway.
 
 ![Supporting panels for key insights](assets/hull_panels.png)
 [Raw photo location: hull_panels.png](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/hull_panels.png)
-*Visual 2.* Comparison of partner vocabularies before and after applying the translation templates.
+*Visual 2.* Use a complementary panel, collage, or set of snapshots that reinforces supporting evidence.
 
 ![Complementary result figure placeholder](assets/main_result.png)
 [Raw photo location: main_result.png](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/main_result.png)
-*Visual 3.* Dashboard mock-up illustrating how interoperable feeds flow into decision-ready summaries.
+*Visual 3.* Highlight an additional visual that captures a secondary insight or next step.
 
 <iframe
   title="Short explainer video (optional)"
@@ -143,9 +147,9 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
   allowfullscreen></iframe>
 
 ### What’s next? 📣
-- Finalize documentation for the interoperability playbook and publish version 1.0 to the repo.
-- Meet with summit partners to prioritize which additional datasets join the harmonization pipeline.
-- Schedule a spring 2025 workshop to onboard new collaborators to the shared workflows.
+- Immediate follow-ups
+- What we would do with one more week/month
+- Who should see this next
 
 ---
 
@@ -167,13 +171,12 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 ---
 
+
 ## Team
 | Name | Role | Contact | GitHub |
 |------|------|---------|--------|
-| _Add your team lead_ | Coordination & partner outreach | email@example.org | @github-handle |
-| _Add your data lead_ | Data acquisition & metadata | email@example.org | @github-handle |
-| _Add your methods lead_ | Workflow prototyping | email@example.org | @github-handle |
-| _Add your comms lead_ | Storytelling & visuals | email@example.org | @github-handle |
+| Jane Doe | Lead | jane.doe@example.org | @janedoe |
+| John Smith | Analyst | john.smith@example.org | @jsmith |
 
 ---
 
