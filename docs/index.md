@@ -57,8 +57,8 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 ### Field notes / visuals
 <!-- EDIT: Replace with a real smartphone photo or sketch; keep filename simple. -->
-![Our norms](docs/assets/our_norms.png)
-[Raw photo location: docs/assets/our_norms.png](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/our_norms.png)
+![Our norms](/assets/our_norms.png)
+[Raw photo location: assets/our_norms.png](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/our_norms.png)
 *Caption: Mapping current interoperability pain points, user stories, and priority partners for Group 18.*
 
 > **Different perspectives:** Briefly capture disagreements or alternate framings. These can unlock innovation.
