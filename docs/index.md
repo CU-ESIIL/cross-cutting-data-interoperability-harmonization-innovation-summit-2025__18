@@ -428,7 +428,7 @@
             </div>
             
             <div class="highlight-quote">
-                "Data on its own is not inherently useful — you need metadata and context. There's no problem that's not interdisciplinary, so it would be better if it wasn't so hard and time-intensive to collaborate."
+                "Data usefulness goes down with time while costs go up — where's the sweet spot?"
                 <div style="margin-top: 20px; font-size: 1rem; opacity: 0.8; font-style: normal;">
                     — heard in our discussion sessions
                 </div>
