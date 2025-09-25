@@ -578,13 +578,14 @@
 |------|---------|--------|
 | Nilima Islam Luba| nluba002@fiu.edu | @nluba |
 | Juan P. Maestre |juanpedro.maestre@utexas.edu | @DrMaestre |
-|  Sarah Cuprewich| sarah.a.cuprewich.gr@dartmouth.edu | @sajc36 |
-|Dana Gehring  | @utexas.edu | @ |
-|  | @.edu | @ |
-|  | @.edu | @ |
-|  | @.edu | @ |
-|  | @.edu | @ |
-|  |  | @ |
+| Sarah Cuprewich| sarah.a.cuprewich.gr@dartmouth.edu | @sajc36 |
+| Dana Gehring  | Danag@olc.edu  | @drg799802 |
+| Trisha Spanbauer | trisha.spanbauer@uky.edu | @trispan |
+| Moriah Young | youngmor@msu.edu@.edu | @moriahy |
+| Maricela Abarca | mabarca@stanford.edu |  |
+| Nilima Islam Luba | nluba002@fiu.edu | @nluba |
+
+And more (upcoming)!
 
 
 ---
