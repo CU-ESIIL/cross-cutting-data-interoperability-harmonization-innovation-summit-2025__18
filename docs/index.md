@@ -586,7 +586,7 @@
 | Nilima Islam Luba | nluba002@fiu.edu | @nluba |
 | Sara Emery | see68@cornell.edu | @saraemery |
 | Ed Hackett | ehackett@asu.edu | 
-
+| Abdulganiyu Jimoh| abdulganiyu.jimoh@usu.edu | @Jimoh1993 |
 And more (upcoming)!
 
 
