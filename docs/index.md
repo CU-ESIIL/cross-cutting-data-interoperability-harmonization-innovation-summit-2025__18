@@ -582,7 +582,7 @@
 | Dana Gehring  | Danag@olc.edu  | @drg799802 |
 | Trisha Spanbauer | trisha.spanbauer@uky.edu | @trispan |
 | Moriah Young | youngmor@msu.edu@.edu | @moriahy |
-| Maricela Abarca | mabarca@stanford.edu |  |
+| Maricela Abarca | mabarca@stanford.edu | @myabarca  |
 | Nilima Islam Luba | nluba002@fiu.edu | @nluba |
 | Sara Emery | see68@cornell.edu | @saraemery |
 | Ed Hackett | ehackett@asu.edu | 
