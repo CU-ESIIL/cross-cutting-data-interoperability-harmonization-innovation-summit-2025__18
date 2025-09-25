@@ -509,7 +509,7 @@
                     <div class="value-item">
                         <span class="value-icon">🤖</span>
                         <h4>AI-Transparent</h4>
-                        <p>We're open about how we use AI tools</p>
+                        <p>We're open about how we use AI tools (this html, thanks Claudia!)</p>
                     </div>
                     <div class="value-item">
                         <span class="value-icon">⚖️</span>
