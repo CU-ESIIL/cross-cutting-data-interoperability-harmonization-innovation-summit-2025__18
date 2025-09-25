@@ -578,13 +578,13 @@
 |------|---------|--------|
 | Nilima Islam Luba| nluba002@fiu.edu | @nluba |
 | Juan P. Maestre |juanpedro.maestre@utexas.edu | @DrMaestre |
-|  | @utexas.edu | @ |
-|  | @utexas.edu | @ |
-|  | @utexas.edu | @ |
-|  | @utexas.edu | @ |
-|  | @utexas.edu | @ |
-|  | @utexas.edu | @ |
-|  | @utexas.edu | @ |
+|  Sarah Cuprewich| sarah.a.cuprewich.gr@dartmouth.edu | @sajc36 |
+|Dana Gehring  | @utexas.edu | @ |
+|  | @.edu | @ |
+|  | @.edu | @ |
+|  | @.edu | @ |
+|  | @.edu | @ |
+|  |  | @ |
 
 
 ---
