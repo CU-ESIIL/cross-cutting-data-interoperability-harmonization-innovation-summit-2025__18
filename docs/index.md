@@ -573,10 +573,18 @@
 
 
 ## Team
-| Name | Role | Contact | GitHub |
-|------|------|---------|--------|
-| Jane Doe | Lead | jane.doe@example.org | @janedoe |
-| John Smith | Analyst | john.smith@example.org | @jsmith |
+| Name | Contact | GitHub |
+|------|---------|--------|
+| Nilima Islam Luba| nluba002@fiu.edu | @nluba |
+| Juan P. Maestre |juanpedro.maestre@utexas.edu | @DrMaestre |
+|  | @utexas.edu | @ |
+|  | @utexas.edu | @ |
+|  | @utexas.edu | @ |
+|  | @utexas.edu | @ |
+|  | @utexas.edu | @ |
+|  | @utexas.edu | @ |
+|  | @utexas.edu | @ |
+
 
 ---
 
