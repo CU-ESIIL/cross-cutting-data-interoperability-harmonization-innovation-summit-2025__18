@@ -565,8 +565,17 @@
 </html>
 
 ---
+## Instant poll results
 
+<!-- EDIT: Replace with a real smartphone photo or sketch; keep filename simple. -->
+![where](assets/where.png) 
+[Raw photo location: assets/our_norms.png](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/where.png)
 
+![where](assets/Cloud.png) 
+[Raw photo location: assets/our_norms.png](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/Cloud.png)
+
+![where](assets/slide.png) 
+[Raw photo location: assets/our_norms.png](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/slide.png)
 
 ---
 
