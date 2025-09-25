@@ -597,7 +597,8 @@
 ![Our norms](assets/our_norms.png) 
 [Raw photo location: assets/our_norms.png](https://github.com/CU-ESIIL/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/blob/main/docs/assets/our_norms.png)
 
-
+## Data management resources  
+![Draft Google doc](https://docs.google.com/document/d/1OkGHxJ7tixQT2cYURjoweCARniqtPEJnOKACU9Fq2Cw/edit?usp=sharing)
 
 ---
 
