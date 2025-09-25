@@ -373,7 +373,8 @@
         <header class="hero">
             <h1>From Data Chaos to Community Standards</h1>
             <p class="hero-subtitle">ESIIL Group 18's Journey Through the Metadata Maze</p>
-            <p class="hero-tagline">"Data usefulness goes down with time while costs go up — where's the sweet spot? We're finding out."</p>
+            <p class="hero-tagline">"Data on its own is not inherently useful — you need metadata and context. There's no problem that's not interdisciplinary, so it would be better if it wasn't so hard and time-intensive to collaborate."
+— heard in our discussion sessions</p>
         </header>
         
         <main class="content">
